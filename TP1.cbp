@@ -34,17 +34,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/controladoras.h" />
 		<Unit filename="include/dominios.h" />
 		<Unit filename="include/entidades.h" />
-		<Unit filename="include/interfaces.h" />
-		<Unit filename="include/stubs.h" />
 		<Unit filename="include/testes.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/controladoras.cpp" />
 		<Unit filename="src/dominios.cpp" />
 		<Unit filename="src/entidades.cpp" />
-		<Unit filename="src/stubs.cpp" />
 		<Unit filename="src/testes.cpp" />
 		<Extensions>
 			<code_completion />

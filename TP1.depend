@@ -11,14 +11,11 @@
 1569271907 c:\users\badti\onedrive\Área de trabalho\chacon\tp1\include\dominios.h
 	<iostream>
 
-1573164146 source:c:\users\badti\documents\chacon\tp1\main.cpp
+1569781123 source:c:\users\badti\documents\chacon\tp1\main.cpp
 	<iostream>
 	"dominios.h"
 	"entidades.h"
 	"testes.h"
-	"interfaces.h"
-	"controladoras.h"
-	"stubs.h"
 
 1569701102 c:\users\badti\documents\chacon\tp1\include\dominios.h
 	<iostream>
@@ -43,33 +40,144 @@
 1569700207 c:\users\badti\documents\chacon\tp1\include\entidades.h
 	"dominios.h"
 
-1571321638 source:c:\users\badti\documents\chacon\tp1\src\testes.cpp
+1569699784 source:c:\users\badti\documents\chacon\tp1\src\testes.cpp
 	<string>
 	<iostream>
 	"testes.h"
 
-1571323260 c:\users\badti\documents\chacon\tp1\include\testes.h
+1569699785 c:\users\badti\documents\chacon\tp1\include\testes.h
 	"dominios.h"
 
-1573166066 source:c:\users\badti\documents\chacon\tp1\src\controladoras.cpp
-	"controladoras.h"
-
-1573163240 c:\users\badti\documents\chacon\tp1\include\controladoras.h
+1569700208 source:c:\users\badti\onedrive\documentos\t2-tp1\src\dominios.cpp
 	"dominios.h"
-	"interfaces.h"
-	<stdexcept>
+	<string>
 	<iostream>
-	<cstdlib>
+	<sstream>
+	<math.h>
 
-1573163387 c:\users\badti\documents\chacon\tp1\include\interfaces.h
-	"dominios.h"
-	<stdexcept>
-
-1573166240 source:c:\users\badti\documents\chacon\tp1\src\stubs.cpp
-	"stubs.h"
-
-1573166156 c:\users\badti\documents\chacon\tp1\include\stubs.h
-	"interfaces.h"
-	<stdexcept>
+1569701104 c:\users\badti\onedrive\documentos\t2-tp1\include\dominios.h
 	<iostream>
+
+1569699786 source:c:\users\badti\onedrive\documentos\t2-tp1\src\entidades.cpp
+	"entidades.h"
+
+1569700208 c:\users\badti\onedrive\documentos\t2-tp1\include\entidades.h
+	"dominios.h"
+
+1569782940 source:c:\users\badti\onedrive\documentos\t2-tp1\src\testes.cpp
+	<string>
+	<iostream>
+	"testes.h"
+
+1569699786 c:\users\badti\onedrive\documentos\t2-tp1\include\testes.h
+	"dominios.h"
+
+1573653929 source:c:\users\badti\onedrive\documentos\t2-tp1\main.cpp
+	<iostream>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+	"curses.h"
+	<string.h>
+
+1573098523 c:\users\badti\onedrive\documentos\t2-tp1\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1573520994 source:c:\users\badti\onedrive\documentos\t2-tp1\lib\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1573668836 c:\users\badti\onedrive\documentos\t2-tp1\include\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1573670813 source:c:\users\badti\onedrive\documentos\t2-tp1\src\controller.cpp
+	"controller.h"
+
+1573668107 c:\users\badti\onedrive\documentos\t2-tp1\include\controller.h
+	"curses.h"
+	<string>
+	"interfaces.h"
+	"builder.h"
+
+1573675776 c:\users\badti\onedrive\documentos\t2-tp1\include\interfaces.h
+	<string>
+	<iostream>
+	<vector>
+	"dominios.h"
+	"entidades.h"
+	"controller.h"
+	"builder.h"
+
+1573670280 c:\users\badti\onedrive\documentos\t2-tp1\include\builder.h
+	"interfaces.h"
+
+1573670068 source:c:\users\badti\onedrive\documentos\t2-tp1\src\builder.cpp
+	"builder.h"
+	"modulos.h"
+
+1573675739 c:\users\badti\onedrive\documentos\t2-tp1\include\modulos.h
+	<string>
+	<vector>
+	"interfaces.h"
 
